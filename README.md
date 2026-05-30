@@ -1,6 +1,6 @@
 # ¡Hola! Soy Josué Monge 👋
 
-Aspirante a Analista de SOC / Blue Team | Estudiante de Técnico en Ciberseguridad en Universidad Cenfotec.
+Aspirante a Analista de SOC / Blue Team | Estudiante de Técnico en Ciberseguridad.
 
 Me apasiona el análisis de vulnerabilidades, la auditoría de infraestructuras de red y la gestión estratégica del riesgo para proteger los activos críticos de las organizaciones.
 
