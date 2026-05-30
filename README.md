@@ -28,9 +28,9 @@ Aquí están algunas de las herramientas y entornos con los que trabajo activame
 
 ## 📊 Mis Estadísticas de GitHub
 
-![Estadísticas de GitHub de jmonge12](https://github-readme-stats.vercel.app/api?username=jmonge12&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Estadísticas de GitHub de jmonge12](https://github-readme-stats.vercel.app/api?username=jmonge12&show_icons=true&theme=dark&cache_seconds=1800)
 
-![Lenguajes más usados de jmonge12](https://github-readme-stats.vercel.app/api/top-langs/?username=jmonge12&layout=compact&theme=dark)
+![Lenguajes más usados de jmonge12](https://github-readme-stats.vercel.app/api/top-langs/?username=jmonge12&layout=compact&theme=dark&cache_seconds=1800)
 
 ---
 
