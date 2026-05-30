@@ -19,10 +19,16 @@ Aquí están algunas de las herramientas y entornos con los que trabajo activame
 
 ---
 
-### 📂 Proyectos Destacados en mi Portafolio
+## 🚀 Proyectos Destacados
 
-* **[Network Vulnerability Assessment](https://github.com/jmonge12/Home-Network-Vulnerability-Assessment)**: Auditoría técnica perimetral realizada en entornos LAN para la detección y documentación de fallas críticas (CVE-2014-3566 y análisis de servicios HTTP expuestos).
-* **[Corporate Security Risk Assessment](https://github.com/jmonge12/Corporate-Information-Security-Risk-Assessment)**: Caso práctico de consultoría y gestión perimetral aplicando la metodología OCTAVE e ISO 27005 para la mitigación del riesgo empresarial.
+### 🛡️ [Auditoría de Seguridad Perimetral e Infraestructura de Red](https://github.com/jmonge12/web-vulnerability-scanning-nikto)
+*Diseño, simulación y análisis defensivo de entornos de red corporativos y residenciales.*
+
+* **Seguridad Defensiva (Blue Team):** Documentación y ejecución de auditorías web utilizando **Nikto** en entornos Kali Linux, analizando la superficie de ataque de interfaces de gestión, identificando vectores de riesgo (ausencia de cabeceras HTTP, exposición de archivos `.bash_history`) y desarrollando planes de mitigación técnica (*Hardening*).
+* **Auditoría de Infraestructura Real:** Análisis de vulnerabilidades críticas (CVE-2014-3566 y CVE-2010-2333) en routers de proveedores de servicios de internet (ISP) para mitigar vectores de compromiso local.
+* **Arquitectura de Redes:** Modelado y configuración de redes corporativas simuladas en **Cisco Packet Tracer**, implementando segmentación por VLANs, enrutamiento inter-VLAN, seguridad en capas de acceso (Port Security) y listas de control de acceso (ACLs).
+
+**🛠️ Tecnologías clave:** Kali Linux, Nikto, Cisco Packet Tracer, Wireshark, Bash, Hardening de Servidores.
 
 ---
 
