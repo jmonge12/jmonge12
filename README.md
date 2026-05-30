@@ -1,9 +1,18 @@
-# ¡Hola! Soy Josué Monge 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00FF66&center=true&vCenter=true&width=700&lines=%C2%A1Hola!+Soy+Josu%C3%A9+Monge+%F0%9F%91%8B;Aspirante+a+Analista+SOC+%F0%9F%9B%A1%EF%B8%8F;Blue+Team+Analyst+%F0%9F%90%BC;Estudiante+de+Ciberseguridad+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
-Aspirante a Analista de SOC / Blue Team | Estudiante de Técnico en Ciberseguridad.
+---
 
-Me apasiona el análisis de vulnerabilidades, la auditoría de infraestructuras de red y la gestión estratégica del riesgo para proteger los activos críticos de las organizaciones.
+<p align="center">
+  💻 <b>Analista Defensivo en Formación</b> | Apasionado por el análisis de vulnerabilidades, la auditoría de infraestructuras de red y la mitigación estratégica del riesgo para proteger los activos críticos de las organizaciones.
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-MONITORING%20TRAFFIC-00FF66?style=flat-square&labelColor=000000" alt="Status Badge">
+</p>
+
+---
 ---
 
 ### 🛠️ Tecnologías y Herramientas
