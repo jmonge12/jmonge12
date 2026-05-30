@@ -7,15 +7,10 @@ Me apasiona el análisis de vulnerabilidades, la auditoría de infraestructuras 
 ---
 
 ### 🛠️ Tecnologías y Herramientas
+
 Aquí están algunas de las herramientas y entornos con los que trabajo activamente en mis laboratorios y proyectos académicos:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4B0082?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-347484?style=for-the-badge&logo=kali-linux&logoColor=white) ![Nikto](https://img.shields.io/badge/Nikto-🔥-orange?style=for-the-badge) ![Nmap](https://img.shields.io/badge/Nmap-4E0474?style=for-the-badge&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows-11&logoColor=white) ![Cisco Networking](https://img.shields.io/badge/Cisco%20Networking-0494C4?style=for-the-badge&logo=cisco&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
