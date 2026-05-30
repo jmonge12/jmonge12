@@ -44,9 +44,19 @@ Aquí están algunas de las herramientas y entornos con los que trabajo activame
 
 ---
 
-### 🤝 Conectemos
-* **Ubicación:** Guápiles, Costa Rica 🇨🇷
-* **Área de interés:** SOC Nivel 1, Blue Team, Seguridad de Redes y Administración de Sistemas Linux.
+## 🌐 TERMINAL_INFO // Detalles del Sistema
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LOCATION-COSTA%20RICA-00FF66?style=flat-square&labelColor=000000&logo=target" alt="Ubicación">
+  <img src="https://img.shields.io/badge/CORE_FOCUS-SOC%20%2F%20BLUE%20TEAM-00FF66?style=flat-square&labelColor=000000&logo=linux" alt="Área de Interés">
+</p>
+
+---
+
+### 🖥️ Especificaciones de Objetivos Técnicos
+
+```text
+[SYSTEM] > Cargando parámetros de enfoque profesional...
 
 <!--
 **jmonge12/jmonge12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
