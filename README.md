@@ -26,11 +26,11 @@ Aquí están algunas de las herramientas y entornos con los que trabajo activame
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+## 📊 Mis Estadísticas de GitHub
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmonge12&theme=tokyonight" alt="Racha de GitHub de Josué" height="195px" />
-</p>
+![Estadísticas de GitHub de jmonge12](https://github-readme-stats.vercel.app/api?username=jmonge12&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Lenguajes más usados de jmonge12](https://github-readme-stats.vercel.app/api/top-langs/?username=jmonge12&layout=compact&theme=dark)
 
 ---
 
