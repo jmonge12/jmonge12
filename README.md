@@ -44,18 +44,16 @@ Aquí están algunas de las herramientas y entornos con los que trabajo activame
 
 ---
 
-## 🌐 TERMINAL_INFO // Detalles del Sistema
+## 🌐 Parámetros de Enfoque Técnico
 
-<p align="left">
-  <img src="https://img.shields.io/badge/LOCATION-COSTA%20RICA-00FF66?style=flat-square&labelColor=000000&logo=target" alt="Ubicación">
-  <img src="https://img.shields.io/badge/CORE_FOCUS-SOC%20%2F%20BLUE%20TEAM-00FF66?style=flat-square&labelColor=000000&logo=linux" alt="Área de Interés">
-</p>
+| Dimensión del Sistema | Configuración / Meta Actual |
+| :--- | :--- |
+| **🛰️ Ubicación del Nodo** | Costa Rica |
+| **🛡️ Vector de Especialización** | Operaciones de Seguridad (SOC Nivel 1) / Blue Team |
+| **🌐 Infraestructura Clave** | Seguridad de Redes & Arquitectura Perimetral |
+| **🐧 Entorno Operativo** | Administración y Auditoría en Sistemas Linux |
+| **🚦 Estado del Sistema** | Desarrollando laboratorios y documentación activa |
 
 ---
-
-### 🖥️ Especificaciones de Objetivos Técnicos
-
-```text
-[SYSTEM] > Cargando parámetros de enfoque profesional...
 
 
