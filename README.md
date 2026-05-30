@@ -26,10 +26,10 @@ Aquí están algunas de las herramientas y entornos con los que trabajo activame
 
 ---
 
-## 📊 Mi Actividad en GitHub
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmonge12&theme=github-dark&area=true" alt="Gráfica de Actividad de jmonge12" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmonge12&theme=github_dark" alt="Estadísticas de jmonge12" />
 </p>
 
 ---
