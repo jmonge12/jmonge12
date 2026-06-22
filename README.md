@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  💻 <b>Analista Defensivo en Formación</b> | Apasionado por el análisis de vulnerabilidades, la auditoría de infraestructuras de red y la mitigación estratégica del riesgo para proteger los activos críticos de las organizaciones.
+  💻 <b>Analista Defensivo en Formación</b> | Apasionado por el análisis de tráfico, la auditoría de infraestructuras de red, la seguridad perimetral y la mitigación estratégica de riesgos en entornos corporativos.
 </p>
 
 <p align="center">
@@ -15,24 +15,34 @@
 ---
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías y Herramientas Clave
 
-Aquí están algunas de las herramientas y entornos con los que trabajo activamente en mis laboratorios y proyectos académicos:
+Enfoque centrado en herramientas esenciales para operaciones de seguridad (SOC) e ingeniería de redes:
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-347484?style=for-the-badge&logo=kali-linux&logoColor=white) ![Nikto](https://img.shields.io/badge/Nikto-🔥-orange?style=for-the-badge) ![Nmap](https://img.shields.io/badge/Nmap-4E0474?style=for-the-badge&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows-11&logoColor=white) ![Cisco Networking](https://img.shields.io/badge/Cisco%20Networking-0494C4?style=for-the-badge&logo=cisco&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-FF6600?style=for-the-badge&logo=opnsense&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-347484?style=for-the-badge&logo=kali-linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4E0474?style=for-the-badge&logo=nmap&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-0494C4?style=for-the-badge&logo=cisco&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🚀 Proyectos Destacados
 
-### 🛡️ [Auditoría de Seguridad Perimetral e Infraestructura de Red](https://github.com/jmonge12/web-vulnerability-scanning-nikto)
-*Diseño, simulación y análisis defensivo de entornos de red corporativos y residenciales.*
+### 🛡️ [Laboratorio de Seguridad Perimetral: Despliegue de Firewall OPNsense con Kali Linux](https://github.com/jmonge12/opnsense-kali-perimeter-security)
+*Aislamiento de red, control de acceso perimetral y auditoría de tráfico en tiempo real.*
 
-* **Seguridad Defensiva (Blue Team):** Documentación y ejecución de auditorías web utilizando **Nikto** en entornos Kali Linux, analizando la superficie de ataque de interfaces de gestión, identificando vectores de riesgo (ausencia de cabeceras HTTP, exposición de archivos `.bash_history`) y desarrollando planes de mitigación técnica (*Hardening*).
-* **Auditoría de Infraestructura Real:** Análisis de vulnerabilidades críticas (CVE-2014-3566 y CVE-2010-2333) en routers de proveedores de servicios de internet (ISP) para mitigar vectores de compromiso local.
-* **Arquitectura de Redes:** Modelado y configuración de redes corporativas simuladas en **Cisco Packet Tracer**, implementando segmentación por VLANs, enrutamiento inter-VLAN, seguridad en capas de acceso (Port Security) y listas de control de acceso (ACLs).
+* **Arquitectura Perimetral:** Despliegue de un firewall de código abierto (**OPNsense**) para segmentar y controlar de forma segura el tráfico entre una zona externa (WAN) y una zona interna controlada (LAN).
+* **Políticas de Seguridad y NAT:** Configuración avanzada de tablas de enrutamiento y aplicación de reglas estrictas de filtrado de paquetes (**Block/Pass**) sobre un host de auditoría basado en Kali Linux.
+* **Monitoreo y Auditoría Defensiva:** Inspección analítica de logs en tiempo real (*Live View*) para identificar, trazar y mitigar el tráfico de red no autorizado.
 
-**🛠️ Tecnologías clave:** Kali Linux, Nikto, Cisco Packet Tracer, Wireshark, Bash, Hardening de Servidores.
+**🛠️ Tecnologías clave:** OPNsense, Kali Linux, Firewalls, Reglas de Red, VirtualBox.
+
+---
+
+### 🌐 [Auditoría de Seguridad e Infraestructura de Red](https://github.com/jmonge12/web-vulnerability-scanning-nikto)
+*Diseño, simulación y análisis defensivo de entornos corporativos.*
+
+* **Seguridad Web:** Ejecución de auditorías utilizando **Nikto** en entornos controlados, identificando vectores de riesgo (ausencia de cabeceras HTTP, exposición de archivos críticos) y planteando planes de mitigación técnica (*Hardening*).
+* **Modelado de Redes:** Configuración de topologías complejas en **Cisco Packet Tracer**, implementando segmentación por VLANs, seguridad en capas de acceso (Port Security) y listas de control de acceso (ACLs).
+
+**🛠️ Tecnologías clave:** Nikto, Cisco Packet Tracer, Wireshark, Hardening.
 
 ---
 
@@ -50,10 +60,7 @@ Aquí están algunas de las herramientas y entornos con los que trabajo activame
 | :--- | :--- |
 | **🛰️ Ubicación del Nodo** | Costa Rica |
 | **🛡️ Vector de Especialización** | Operaciones de Seguridad (SOC Nivel 1) / Blue Team |
-| **🌐 Infraestructura Clave** | Seguridad de Redes & Arquitectura Perimetral |
+| **🌐 Infraestructura Clave** | Seguridad de Redes & Arquitectura Perimetral (Firewalls) |
 | **🐧 Entorno Operativo** | Administración y Auditoría en Sistemas Linux |
 | **🚦 Estado del Sistema** | Desarrollando laboratorios y documentación activa |
-
----
-
 
