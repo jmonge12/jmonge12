@@ -44,10 +44,10 @@
 
 ---
 
-## 📡 TELEMETRÍA DE CAPACIDADES (DYNAMIC RADAR)
+## 📡 TELEMETRÍA DINÁMICA DEL SISTEMA
 
 <p align="center">
-  <img src="https://github-readme-radar.vercel.app/?config=https://gist.githubusercontent.com/jmonge12/raw/radar.json&theme=tokyonight&user=jmonge12" alt="Radar de Habilidades" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jmonge12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas Generales" width="55%" />
 </p>
 
 ---
