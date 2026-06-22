@@ -44,10 +44,10 @@
 
 ---
 
-## 📡 TELEMETRÍA DINÁMICA DEL SISTEMA
+## 📡 TELEMETRÍA DE MONITOREO DINÁMICO (STREAK NATIVE)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmonge12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas Generales" width="55%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmonge12&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
 </p>
 
 ---
