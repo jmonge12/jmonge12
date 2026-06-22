@@ -44,13 +44,11 @@
 
 ---
 
-## 📡 HISTORIAL DE ACTIVIDAD Y LOGS RECIENTES
+## 📡 TELEMETRÍA DE CAPACIDADES (DYNAMIC RADAR)
 
-* 🟢 **[DEPLOY]** Implementación exitosa de Firewall perimetral **OPNsense** con segmentación segura de interfaces WAN/LAN.
-* 🟢 **[AUDIT]** Pruebas de conectividad y análisis de denegación de paquetes ICMP mediante logs en tiempo real (*Live View*).
-* 🟢 **[SCAN]** Ejecución de auditorías web con **Nikto** y mapeo de configuraciones inseguras en servidores locales.
-* 🟢 **[NET]** Modelado y securización de infraestructura conmutada en **Cisco Packet Tracer** (VLANs, ACLs y Port Security).
-* 🔵 **[LEARNING]** Optimización de políticas de hardening de sistemas mediante técnicas avanzadas de Prompt Engineering.
+<p align="center">
+  <img src="https://github-readme-radar.vercel.app/?config=https://gist.githubusercontent.com/jmonge12/raw/radar.json&theme=tokyonight&user=jmonge12" alt="Radar de Habilidades" width="70%" />
+</p>
 
 ---
 
