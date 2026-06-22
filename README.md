@@ -44,15 +44,13 @@
 
 ---
 
-## 📊 TELEMETRÍA DE CONTRIBUCIONES E IMPACTO REAL
+## 📡 HISTORIAL DE ACTIVIDAD Y LOGS RECIENTES
 
-| Métrica de Actividad Académica y Técnica | Tipo de Aporte / Documentación | Estado |
-| :--- | :--- | :---: |
-| 🛡️ **Defensa Perimetral e Ingeniería de Firewalls** | Despliegue de OPNsense, administración de reglas LAN/WAN y control de acceso. | `Completado` |
-| 🔍 **Análisis de Vulnerabilidades Estructurales** | Auditorías de red con Nikto, análisis de CVEs críticos en routers residenciales (ISP). | `Completado` |
-| 🔀 **Segmentación y Arquitectura de Redes** | Configuración de entornos Cisco, enrutamiento Inter-VLAN, Port Security y ACLs. | `Completado` |
-| 📡 **Análisis de Paquetes y Telemetría** | Captura y desfragmentación de tráfico de red mediante Wireshark para auditorías. | `Activo` |
-| 🤖 **Optimización de Hardening con IA** | Uso de Prompt Engineering estratégico para optimizar flujos de configuración defensiva. | `Activo` |
+* 🟢 **[DEPLOY]** Implementación exitosa de Firewall perimetral **OPNsense** con segmentación segura de interfaces WAN/LAN.
+* 🟢 **[AUDIT]** Pruebas de conectividad y análisis de denegación de paquetes ICMP mediante logs en tiempo real (*Live View*).
+* 🟢 **[SCAN]** Ejecución de auditorías web con **Nikto** y mapeo de configuraciones inseguras en servidores locales.
+* 🟢 **[NET]** Modelado y securización de infraestructura conmutada en **Cisco Packet Tracer** (VLANs, ACLs y Port Security).
+* 🔵 **[LEARNING]** Optimización de políticas de hardening de sistemas mediante técnicas avanzadas de Prompt Engineering.
 
 ---
 
