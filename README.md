@@ -63,4 +63,3 @@ Enfoque centrado en herramientas esenciales para operaciones de seguridad (SOC) 
 | **🌐 Infraestructura Clave** | Seguridad de Redes & Arquitectura Perimetral (Firewalls) |
 | **🐧 Entorno Operativo** | Administración y Auditoría en Sistemas Linux |
 | **🚦 Estado del Sistema** | Desarrollando laboratorios y documentación activa |
-
