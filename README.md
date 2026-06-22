@@ -44,21 +44,27 @@
 
 ---
 
-## 📊 TELEMETRÍA DEL SISTEMA
+## 📊 TELEMETRÍA DEL SISTEMA (LIVE STATS)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmonge12&theme=github_dark" alt="Estadísticas de jmonge12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jmonge12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmonge12&layout=compact&theme=tokyonight&hide_border=true" alt="Idiomas más usados" width="48%" />
 </p>
 
 ---
 
-## 🌐 ESPECIFICACIONES TÉCNICAS DEL NODO (PARÁMETROS)
+## ⚡ PARÁMETROS OPERATIVOS DEL COMPILADOR
 
-```diff
-+ ======================================================================
-+ 🛰️ NODE_LOCATION      :: Costa Rica 🇨🇷 (Guápiles Central Node)
-+ 🛡️ SPECIALIZATION     :: Blue Team Operations / SOC Analyst Tier 1
-+ 🤖 AI_INTEGRATION     :: Prompt Engineering aplicado a Ciberdefensa Activa
-+ 🔌 INFRASTRUCTURE    :: Packet Analysis | Network Security | Firewalls
-+ 🚦 SYSTEM_STATUS      :: 🟢 ONLINE - Corriendo Laboratorios y Documentación
-+ ======================================================================
+| Parámetro del Sistema | Registro de Actividad | Nivel de Carga |
+| :--- | :--- | :--- |
+| **🛡️ Target Especializado** | Operaciones de Ciberseguridad / SOC & Blue Team | `[██████████] 100%` |
+| **🤖 AI Optimization** | Prompt Engineering enfocado en Hardening y Defensa | `[████████░░] 80%` |
+| **📡 Telemetría de Red** | Packet Analysis / Firewalls / Perimeter Rules | `[██████████] 100%` |
+| **⚙️ Estado del Núcleo** | Ejecutando y documentando nuevos laboratorios | `[██████░░░░] 60%` |
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM-SECURE-00FF66?style=flat-square" alt="Secure Badge"> 
+  <img src="https://img.shields.io/badge/NODE-COMPUTING-00E5FF?style=flat-square" alt="Computing Badge">
+</p>
