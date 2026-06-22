@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=800&color=00FF66&center=true&vCenter=true&width=750&lines=%E2%96%93%E2%96%93%E2%96%93+INITIALIZING+SECURE_NODE+%E2%96%93%E2%96%93%E2%96%93;%F0%9F%9B%A1%EF%B8%8F+ROLE%3A+SOC+Analyst+%2F+Blue+Team;%F0%9F%A4%96+CORE%3A+AI-Driven+Cybersecurity;%F0%9F%9F%A2+STATUS%3A+ACTIVE_MONITORING_TRAFFIC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=800&color=00FF66&center=true&vCenter=true&width=750&lines=Josu%C3%A9+Monge+%E2%9A%A1;Analista+Blue+Team+%F0%9F%9B%A1%EF%B8%8F;Active+Cyberdefense+%F0%9F%9BB%" alt="Typing SVG" />
 </p>
 
 ---
@@ -44,23 +44,26 @@
 
 ---
 
-## 📊 TELEMETRÍA DEL SISTEMA (LIVE STATS)
+## 📊 TELEMETRÍA DE CONTRIBUCIONES E IMPACTO REAL
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jmonge12&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmonge12&layout=compact&theme=tokyonight&hide_border=true" alt="Idiomas más usados" width="48%" />
-</p>
+| Métrica de Actividad Académica y Técnica | Tipo de Aporte / Documentación | Estado |
+| :--- | :--- | :---: |
+| 🛡️ **Defensa Perimetral e Ingeniería de Firewalls** | Despliegue de OPNsense, administración de reglas LAN/WAN y control de acceso. | `Completado` |
+| 🔍 **Análisis de Vulnerabilidades Estructurales** | Auditorías de red con Nikto, análisis de CVEs críticos en routers residenciales (ISP). | `Completado` |
+| 🔀 **Segmentación y Arquitectura de Redes** | Configuración de entornos Cisco, enrutamiento Inter-VLAN, Port Security y ACLs. | `Completado` |
+| 📡 **Análisis de Paquetes y Telemetría** | Captura y desfragmentación de tráfico de red mediante Wireshark para auditorías. | `Activo` |
+| 🤖 **Optimización de Hardening con IA** | Uso de Prompt Engineering estratégico para optimizar flujos de configuración defensiva. | `Activo` |
 
 ---
 
-## ⚡ PARÁMETROS OPERATIVOS DEL COMPILADOR
+## 🌐 ESPECIFICACIONES TÉCNICAS DEL NODO
 
-| Parámetro del Sistema | Registro de Actividad | Nivel de Carga |
-| :--- | :--- | :--- |
-| **🛡️ Target Especializado** | Operaciones de Ciberseguridad / SOC & Blue Team | `[██████████] 100%` |
-| **🤖 AI Optimization** | Prompt Engineering enfocado en Hardening y Defensa | `[████████░░] 80%` |
-| **📡 Telemetría de Red** | Packet Analysis / Firewalls / Perimeter Rules | `[██████████] 100%` |
-| **⚙️ Estado del Núcleo** | Ejecutando y documentando nuevos laboratorios | `[██████░░░░] 60%` |
+| Parámetro del Sistema | Registro de Actividad Activa |
+| :--- | :--- |
+| **🛡️ Target Especializado** | Operaciones de Ciberseguridad / SOC & Blue Team |
+| **🤖 AI Optimization** | Prompt Engineering enfocado en Hardening y Defensa |
+| **📡 Telemetría de Red** | Packet Analysis / Firewalls / Perimeter Rules |
+| **⚙️ Estado del Núcleo** | Ejecutando y documentando nuevos laboratorios |
 
 <br>
 
