@@ -1,8 +1,8 @@
 # ¡Hola! Soy Josué Monge 👋
 
-**Estudiante de Ciberseguridad** en Universidad Cenfotec, enfocado en seguridad ofensiva y defensiva de redes. Disfruto documentar cada laboratorio como si fuera un reporte profesional: reconocimiento, explotación/detección, y análisis de causa raíz con recomendaciones de mitigación.
+**Estudiante de Ciberseguridad** Enfocado en seguridad ofensiva y defensiva de redes. Disfruto documentar cada laboratorio como si fuera un reporte profesional: reconocimiento, explotación/detección, y análisis de causa raíz con recomendaciones de mitigación.
 
-🔎 Actualmente buscando oportunidades como **SOC Analyst** o **Pentester Junior**.
+
 
 ---
 
